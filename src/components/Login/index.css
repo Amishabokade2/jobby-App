@@ -1,0 +1,36 @@
+*{
+    font-family: "Ubuntu", sans-serif;
+}
+.login_cont{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.my-form{
+    width: 35%;
+    padding: 20px;
+    background-color: rgb(19, 18, 18);
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.web_logo{
+    width: 140px;
+
+}
+.btn-cont{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.emsg{
+    color: red;
+    margin-top: 10px;
+}
